@@ -1,0 +1,5 @@
+AJAX ---> Asynchronous Javascript and XML (Xtensible markup language)
+
+AJAX is a web technique which help to send request without disturbing the current webpage
+
+// Page will not get refresh again and again

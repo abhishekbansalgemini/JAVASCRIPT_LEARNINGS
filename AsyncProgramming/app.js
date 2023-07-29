@@ -27,16 +27,16 @@
 // delay();
 // console.log("END ");
 
-//But, if we create delay like this, our browser will get freeze at the time of delay, so this is not a good practice
+// But, if we create delay like this, our browser will get freeze at the time of delay, so this is not a good practice
 
-//To improve above thing, we need some super powers because JS Engine can't fix this thing
+// To improve above thing, we need some super powers because JS Engine can't fix this thing
 
 // But Our Browser is not less than a miracle... It contains all the super powers
 
 // The thing is that, it is written in C++ which supports Multi-threading
 
 
-//Superpowers
+// Superpowers
 
 // 1. Connecting to server 
 // 2. Timers
